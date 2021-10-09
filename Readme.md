@@ -43,7 +43,7 @@ Contact project owner if you would like to contribute to the project
 ## Tests
 
 Use Insomnia or Postman to test the API end points. See an example here:
-[![HowTo Video]({})]({https://watch.screencastify.com/v/dNQ6ICKzF4aTsYCBcUz5} "HowTo Video")
+[HowTo Video](https://watch.screencastify.com/v/dNQ6ICKzF4aTsYCBcUz5)
 
 ## Questions
 
